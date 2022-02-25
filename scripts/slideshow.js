@@ -17,8 +17,8 @@ function init() {
                 "Name"
             ],
             slide_idx: 0,
-            curve_sections: 12,
-            show_points: false
+            curve_sections: 13,
+            show_points: true
         },
         watch: {
             curve_sections: function(new_value) {
